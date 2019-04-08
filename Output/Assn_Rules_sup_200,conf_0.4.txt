@@ -1,0 +1,14 @@
+Rules
+['margarine'](576) ---> ['whole milk'](2513) conf:0.4131944444444444
+['yogurt'](1372) ---> ['whole milk'](2513) conf:0.40160349854227406
+['tropical fruit'](1032) ---> ['whole milk'](2513) conf:0.40310077519379844
+['butter'](545) ---> ['whole milk'](2513) conf:0.4972477064220184
+['curd'](524) ---> ['whole milk'](2513) conf:0.4904580152671756
+['root vegetables'](1072) ---> ['whole milk'](2513) conf:0.44869402985074625
+['whipped/sour cream'](705) ---> ['whole milk'](2513) conf:0.44964539007092197
+['domestic eggs'](624) ---> ['whole milk'](2513) conf:0.47275641025641024
+['frozen vegetables'](473) ---> ['whole milk'](2513) conf:0.4249471458773784
+['root vegetables'](1072) ---> ['other vegetables'](1903) conf:0.43470149253731344
+['whipped/sour cream'](705) ---> ['other vegetables'](1903) conf:0.40283687943262414
+['yogurt', 'other vegetables'](427) ---> ['whole milk'](2513) conf:0.5128805620608899
+['root vegetables', 'other vegetables'](466) ---> ['whole milk'](2513) conf:0.4892703862660944

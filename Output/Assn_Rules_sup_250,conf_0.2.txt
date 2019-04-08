@@ -1,0 +1,19 @@
+Rules
+['citrus fruit'](814) ---> ['whole milk'](2513) conf:0.36855036855036855
+['yogurt'](1372) ---> ['tropical fruit'](1032) conf:0.2099125364431487
+['whole milk'](2513) ---> ['yogurt'](1372) conf:0.2192598487863112
+['other vegetables'](1903) ---> ['yogurt'](1372) conf:0.22438255386232264
+['root vegetables'](1072) ---> ['yogurt'](1372) conf:0.23694029850746268
+['other vegetables'](1903) ---> ['whole milk'](2513) conf:0.38675775091960063
+['rolls/buns'](1809) ---> ['whole milk'](2513) conf:0.30790491984521834
+['bottled water'](1087) ---> ['whole milk'](2513) conf:0.3109475620975161
+['curd'](524) ---> ['whole milk'](2513) conf:0.4904580152671756
+['soda'](1715) ---> ['whole milk'](2513) conf:0.22973760932944606
+['fruit/vegetable juice'](711) ---> ['whole milk'](2513) conf:0.36849507735583686
+['newspapers'](785) ---> ['whole milk'](2513) conf:0.34267515923566877
+['pastry'](875) ---> ['whole milk'](2513) conf:0.3737142857142857
+['sausage'](924) ---> ['whole milk'](2513) conf:0.3181818181818182
+['other vegetables'](1903) ---> ['rolls/buns'](1809) conf:0.22017866526537047
+['other vegetables'](1903) ---> ['root vegetables'](1072) conf:0.24487651077246453
+['soda'](1715) ---> ['rolls/buns'](1809) conf:0.21982507288629738
+['sausage'](924) ---> ['rolls/buns'](1809) conf:0.32575757575757575

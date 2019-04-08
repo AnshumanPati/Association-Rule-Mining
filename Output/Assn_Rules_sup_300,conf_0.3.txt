@@ -1,0 +1,12 @@
+Rules
+['citrus fruit'](814) ---> ['whole milk'](2513) conf:0.36855036855036855
+['yogurt'](1372) ---> ['whole milk'](2513) conf:0.40160349854227406
+['yogurt'](1372) ---> ['other vegetables'](1903) conf:0.3112244897959184
+['tropical fruit'](1032) ---> ['whole milk'](2513) conf:0.40310077519379844
+['tropical fruit'](1032) ---> ['other vegetables'](1903) conf:0.34205426356589147
+['other vegetables'](1903) ---> ['whole milk'](2513) conf:0.38675775091960063
+['rolls/buns'](1809) ---> ['whole milk'](2513) conf:0.30790491984521834
+['bottled water'](1087) ---> ['whole milk'](2513) conf:0.3109475620975161
+['pastry'](875) ---> ['whole milk'](2513) conf:0.3737142857142857
+['root vegetables'](1072) ---> ['whole milk'](2513) conf:0.44869402985074625
+['whipped/sour cream'](705) ---> ['whole milk'](2513) conf:0.44964539007092197
